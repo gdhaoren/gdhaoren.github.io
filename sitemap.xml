@@ -3,19 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gdhaoren.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://gdhaoren.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://gdhaoren.github.io/post/</loc>
+    <loc>http://gdhaoren.github.io/about/</loc>
+    <lastmod>2019-12-02T00:04:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://gdhaoren.github.io/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/about/desc/</loc>
+    <lastmod>2019-12-02T00:04:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/categories/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/tags/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/post/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdhaoren.github.io/post/myfirst/</loc>
+    <lastmod>2019-12-02T23:23:57+08:00</lastmod>
   </url>
   
 </urlset>
